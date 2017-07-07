@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Austin Maples",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "austinmaples",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Matt Howse",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "matthowse",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Gary Royal",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "garyroyaltattoo",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Holly Ellis",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "hollsballs1",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Ross Jones",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "rosskjones",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Derick Montez",
+        "location": "San Francisco, California",
+        "shop": "Idle Hand",
+        "shop-url": "http://idlehandsf.com",
+        "instagram": "derickmontez",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Herb Auerbach",
+        "location": "Santa Cruz, California",
+        "shop": "California Electric Tattoo",
+        "shop-url": "http://www.californiaelectrictattoo.com/",
+        "instagram": "herbxauerbach",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Stefan Johnson",
+        "location": "Santa Cruz, California",
+        "shop": "California Electric Tattoo",
+        "shop-url": "http://www.californiaelectrictattoo.com/",
+        "instagram": "stefanjohnsson",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Thad Ritchey",
+        "location": "Santa Cruz, California",
+        "shop": "California Electric Tattoo",
+        "shop-url": "http://www.californiaelectrictattoo.com/",
+        "instagram": "thad_ritchey",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Joseph James",
+        "location": "Santa Cruz, California",
+        "shop": "California Electric Tattoo",
+        "shop-url": "http://www.californiaelectrictattoo.com/",
+        "instagram": "joseph_james_tattoo",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Cats",
+        "location": "San Francisco, California",
+        "shop": "2 Spirit Tattoo",
+        "shop-url": "http://2spirittattoo.com/",
+        "instagram": "Cats_tattoo_",
+        "category": [
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Roxx",
+        "location": "San Francisco, California",
+        "shop": "2 Spirit Tattoo",
+        "shop-url": "http://2spirittattoo.com/",
+        "instagram": "Roxx_____",
+        "category": [
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Christopher Rogers",
+        "location": "San Francisco, California",
+        "shop": "Black & Blue Tattoo",
+        "shop-url": "http://www.blackandbluetattoo.com/",
+        "instagram": "chrisrogerstattoo",
+        "category": [
+            "new school"
+        ]
+    },
+    {
+        "name": "Brucius",
+        "location": "San Francisco, California",
+        "shop": "Black & Blue Tattoo",
+        "shop-url": "http://www.blackandbluetattoo.com/",
+        "instagram": "_brucius_",
+        "category": [
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Idexa Stern",
+        "location": "San Francisco, California",
+        "shop": "Black & Blue Tattoo",
+        "shop-url": "http://www.blackandbluetattoo.com/",
+        "instagram": "idexa_stern",
+        "category": [
+            "geometric",
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Jeff Croci",
+        "location": "San Francisco, California",
+        "shop": "Seventh Son Tattoo",
+        "shop-url": "http://www.seventhsontattoo.com/",
+        "instagram": "jeffcroci",
+        "category": [
+            "biomechanical"
+        ]
+    },
+    {
+        "name": "Luke Stewart",
+        "location": "San Francisco, California",
+        "shop": "Seventh Son Tattoo",
+        "shop-url": "http://www.seventhsontattoo.com/",
+        "instagram": "lukeseventhson",
+        "category": [
+            "japanese"
+        ]
+    },
+    {
+        "name": "David Robinson",
+        "location": "San Francisco, California",
+        "shop": "Seventh Son Tattoo",
+        "shop-url": "http://www.seventhsontattoo.com/",
+        "instagram": "davidrobinson_mybloodyart",
+        "category": [
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Cody Miller",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "codykilla",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Kahlil Rintye",
+        "location": "San Francisco, California",
+        "shop": "Tattoo City",
+        "shop-url": "http://www.tattoocitysf.com/",
+        "instagram": "kahlilrintye",
+        "category": [
+            "traditional",
+            "japanese"
+        ]
+    },
+    {
+        "name": "Jason Vaughn",
+        "location": "Berkeley, California",
+        "shop": "War Horse Tattoo",
+        "shop-url": "http://info.warhorsetattoo.com/",
+        "instagram": "jason_vaughn_tattoos",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Jeff Rassier",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "jeffrassier",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Heather Bailey",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "cathedraloftears",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Henry Dever",
+        "location": "Napa, California",
+        "shop": "Napa Valley Tattoo Co.",
+        "shop-url": "https://www.facebook.com/napavalleytattooco/",
+        "instagram": "henrydevertattoo",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Heath Preheim",
+        "location": "Oakland, California",
+        "shop": "Temple Tattoo",
+        "shop-url": "http://www.templeoakland.com/",
+        "instagram": "heathtemple",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "George Campise",
+        "location": "Berkeley, California",
+        "shop": "War Horse Tattoo",
+        "shop-url": "http://info.warhorsetattoo.com/",
+        "instagram": "georgecampise",
+        "category": [
+            "traditional",
+            "japanese"
+        ]
+    },
+    {
+        "name": "David Parker",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "davidparker_bht",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Rob Struven",
+        "location": "Napa, California",
+        "shop": "Napa Valley Tattoo Co.",
+        "shop-url": "https://www.facebook.com/napavalleytattooco/",
+        "instagram": "rob_struven_tattoo",
+        "category": [
+            "traditional",
+            "blackwork"
+        ]
+    },
+    {
+        "name": "Kevin Marr",
+        "location": "San Francisco, California",
+        "shop": "Resolution",
+        "shop-url": "http://resolutionsf.com/",
+        "instagram": "kevinmarr_horikema",
+        "category": []
+    }
+]
