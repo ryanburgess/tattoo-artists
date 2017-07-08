@@ -289,6 +289,22 @@
         "shop": "Resolution",
         "shop-url": "http://resolutionsf.com/",
         "instagram": "kevinmarr_horikema",
-        "category": []
+        "category": ["japanese"]
+    },
+    {
+        "name": "Jonathan Montalvo",
+        "location": "San Francisco, California",
+        "shop": "Everlasting Tattoo",
+        "shop-url": "https://www.everlastingtattoo.com/",
+        "instagram": "jontalvo",
+        "category": ["traditional"]
+    },
+    {
+        "name": "Stefan Johnsson",
+        "location": "Santa Cruz, California",
+        "shop": "California Electric Tattoo",
+        "shop-url": "http://www.californiaelectrictattoo.com/",
+        "instagram": "stefanjohnsson",
+        "category": ["traditional"]
     }
 ]
