@@ -289,7 +289,9 @@
         "shop": "Resolution",
         "shop-url": "http://resolutionsf.com/",
         "instagram": "kevinmarr_horikema",
-        "category": ["japanese"]
+        "category": [
+            "japanese"
+        ]
     },
     {
         "name": "Jonathan Montalvo",
@@ -297,7 +299,9 @@
         "shop": "Everlasting Tattoo",
         "shop-url": "https://www.everlastingtattoo.com/",
         "instagram": "jontalvo",
-        "category": ["traditional"]
+        "category": [
+            "traditional"
+        ]
     },
     {
         "name": "Stefan Johnsson",
@@ -305,6 +309,42 @@
         "shop": "California Electric Tattoo",
         "shop-url": "http://www.californiaelectrictattoo.com/",
         "instagram": "stefanjohnsson",
+        "category": [
+            "traditional"
+        ]
+    },
+    {
+        "name": "Dawei Zhang",
+        "location": "Sunnyvale, California",
+        "shop": "Da Wei Tattoo",
+        "shop-url": "http://www.daweitattoo.com/",
+        "instagram": "daweitattoo",
+        "category": [
+            "portrait"
+        ]
+    },
+    {
+        "name": "Scott Sylvia",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "Scsylvia",
+        "category": ["traditional"]
+    },
+    {
+        "name": "Jeff Rassier",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "Jeffrassier",
+        "category": ["traditional"]
+    },
+    {
+        "name": "Cody Miller",
+        "location": "San Francisco, California",
+        "shop": "Black Heart Tattoo",
+        "shop-url": "http://www.blackhearttattoosf.com/",
+        "instagram": "codykilla",
         "category": ["traditional"]
     }
 ]
